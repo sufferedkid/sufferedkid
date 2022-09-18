@@ -1,5 +1,1 @@
-<img src="https://img.shields.io/badge/tg:-%40sufferedk1d-blueviolet"></img>
-<img src="https://img.shields.io/badge/discord%3A-sufferedkid%231990-blueviolet"></img>
-
-[![sufferedkid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufferedkid&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
+![akorutant](https://raw.githubusercontent.com/sufferedkid/sufferedkid/c0057198b9e417aa0299c7422c9e58fb84be3715/sayoteam/akorutant.svg)
