@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sufferedkid/sufferedkid/29360cc53483c5087b9b6bc38cc0fe7bb1d374a9/sayoteam/sayolight.svg">
+  <img src="https://raw.githubusercontent.com/sufferedkid/sufferedkid/70ca3483289c15c21ca097914f5270dacafe53aa/sayoteam/sayolight.svg">
 </p>
 <p align="center">
   <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/marmok.png?raw=true" href="https://discord.com/invite/marmok">
