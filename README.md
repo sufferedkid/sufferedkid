@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sufferedkid/sufferedkid/70ca3483289c15c21ca097914f5270dacafe53aa/sayoteam/sayolight.svg">
+  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/sayoteam/sufferedkid.svg">
 </p>
 <p align="center">
-  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/marmok.png?raw=true" href="https://discord.com/invite/marmok">
-  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/playlister.png?raw=true" href="https://t.me/sayo_plstrbot">
-  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/slowreverb.png?raw=true" href="https://t.me/slowreverberbot">
-  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/gurenyu.png?raw=true" href="https://discord.com/oauth2/authorize?client_id=980829083250352170&permissions=3147776&scope=bot">
+  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/cookingbot.png?raw=true" href="https://t.me/cookinghelpbot">
+  <img src="https://github.com/sufferedkid/sufferedkid/blob/main/projects/whatdaynow.png?raw=true" href="https://t.me/whatdaynowbot">
 </p>
