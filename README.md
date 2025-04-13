@@ -4,14 +4,14 @@
 <a href="http://t.me/sufferedk1d">
   <img src="https://github.com/user-attachments/assets/8b096bb4-7579-448f-967f-7c2ec58380eb" width="49.7%">
 </a>
-<a href="http://t.me/sufferedk1d">
+<a href="https://www.reddit.com/user/sufferedkid/">
   <img src="https://github.com/user-attachments/assets/03439022-08b3-4556-9cf1-31af8f2023fc" width="49.7%">
 </a>
 <img src="https://github.com/user-attachments/assets/2de160b6-ca14-4e5d-83b6-696c7639c3da">
-<img src="https://github.com/user-attachments/assets/487760c5-34cd-48cc-bf12-5cd03f3af2be"width="24%">
-<img src="https://github.com/user-attachments/assets/b752cafe-6480-4dbc-ab11-16de0e2a3d76"width="24%">
-<img src="https://github.com/user-attachments/assets/d38e1941-e613-4717-b8ae-882c92ad1488"width="24%">
-<img src="https://github.com/user-attachments/assets/ad504ed0-4b59-4943-b74d-f2b03a404bfb"width="24%">
+<img src="https://github.com/user-attachments/assets/487760c5-34cd-48cc-bf12-5cd03f3af2be"width="24.6%">
+<img src="https://github.com/user-attachments/assets/b752cafe-6480-4dbc-ab11-16de0e2a3d76"width="24.6%">
+<img src="https://github.com/user-attachments/assets/d38e1941-e613-4717-b8ae-882c92ad1488"width="24.6%">
+<img src="https://github.com/user-attachments/assets/ad504ed0-4b59-4943-b74d-f2b03a404bfb"width="24.6%">
 
 
 
