@@ -1,19 +1,42 @@
-<img src="https://github.com/user-attachments/assets/cb9af7ea-3f79-43cd-a3a8-021397357f25">
-<img src="https://github.com/user-attachments/assets/cc996bc9-052d-4d05-93c9-29ca6c28550f">
-<img src="https://github.com/user-attachments/assets/9f6f944b-948b-49f8-964f-82ffc565e1d0">
-<a href="http://t.me/sufferedk1d">
-  <img src="https://github.com/user-attachments/assets/8b096bb4-7579-448f-967f-7c2ec58380eb" width="49.7%">
-</a>
-<a href="https://www.reddit.com/user/sufferedkid/">
-  <img src="https://github.com/user-attachments/assets/03439022-08b3-4556-9cf1-31af8f2023fc" width="49.7%">
-</a>
-<img src="https://github.com/user-attachments/assets/2de160b6-ca14-4e5d-83b6-696c7639c3da">
-<img src="https://github.com/user-attachments/assets/487760c5-34cd-48cc-bf12-5cd03f3af2be"width="24.6%">
-<img src="https://github.com/user-attachments/assets/b752cafe-6480-4dbc-ab11-16de0e2a3d76"width="24.6%">
-<img src="https://github.com/user-attachments/assets/d38e1941-e613-4717-b8ae-882c92ad1488"width="24.6%">
-<img src="https://github.com/user-attachments/assets/ad504ed0-4b59-4943-b74d-f2b03a404bfb"width="24.6%">
+###### <div align="center">`sufferedkid/README.md`</div>  
+  
 
+##   
+  
 
+### **<div align="center">Приветствую 👋</div>**  
+  
 
+*<div align="center">Меня зовут Андрей, мне 19 лет.\
+Занимаюсь 3Д-моделированием и программированием</div>*  
+  
 
+##   
+  
 
+###### <div align="center">`sufferedkid/socials.md`</div>  
+  
+
+**<div align="center">`Telegram`: [@sufferedkid](https://t.me/sufferedk1d)\
+`Reddit`:  [@sufferedkid](https://www.reddit.com/user/sufferedkid/)</div>**  
+  
+
+##   
+  
+
+###### <div align="center">`sufferedkid/skills.md`</div>  
+  
+
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+</div>  
+
+##   
