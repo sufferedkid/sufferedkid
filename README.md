@@ -9,4 +9,6 @@
 <p align="left">
 </p>
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/sufferedkid/sufferedkid/output/snake.svg" alt="Snake animation" />
