@@ -1,8 +1,5 @@
 ###### <div align="center">`sufferedkid/README.md`</div>  
-  
 
-##   
-  
 
 ### **<div align="center">Приветствую 👋</div>**  
   
